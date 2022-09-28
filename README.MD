@@ -6,3 +6,4 @@ typescript study started with max 0928
 
 - Typescript vsc
 - ✨JAVASCRIPT with JAIN✨
+- BRANCH SWITCH
