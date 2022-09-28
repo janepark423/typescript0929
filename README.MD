@@ -5,4 +5,4 @@
 typescript study started with max 0928
 
 - Typescript vsc
-- ✨JAVASCRIPT ✨
+- ✨JAVASCRIPT with JAIN✨
